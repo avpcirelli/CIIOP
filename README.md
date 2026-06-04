@@ -12,3 +12,10 @@ you might perhaps understand my headache.
 
 But i have to say that results are very interesting.
 
+Suggested Reading Path:
+
+1. Executive Summary
+2. Business Context & Problem Definition
+3. Business Key-Scenarios
+4. .....
+5. Proposed Solution Architecture
