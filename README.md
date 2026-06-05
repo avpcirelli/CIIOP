@@ -7,7 +7,7 @@ Well, in those cases, I actually managed to get this huge and incredibly intelli
 But now that I have a little more time (...), I thought I'd propose working on slightly more complex scenarios together.
 You know? what happened in vibe coding is exactly what happened in building a complete architecture. 
 
-If you then think that I tried to involve  my friend also in the argumentations of the scenario and context of the business application, 
+If you then think that I tried to involve  "my Friend" also in the argumentations of the scenario and context of the business application, 
 you might perhaps understand my headache.
 
 But i have to say that results are very interesting.
