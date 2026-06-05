@@ -1,12 +1,12 @@
 # CIIOP - Clinical Imaging Intelligence Orchestration Platform  - Scenario Study
 
-Clinical Imaging Intelligence Orchestration Platform (CIIOP) is a conceptual Proof of Concept (PoC) exploring the design of a hybrid AI-powered platform for medical imaging analysis, 3D anatomical reconstruction, and clinician-guided continuous learning.
+Clinical Imaging Intelligence Orchestration Platform (CIIOP) is a conceptual **Proof of Concept (PoC)** exploring the design of a **hybrid AI-powered platform** for medical imaging analysis, 3D anatomical reconstruction, and clinician-guided continuous learning.
 
 The project investigates how modern AI capabilities—including computer vision, medical image segmentation, anomaly detection, human-in-the-loop validation, and MLOps—can be orchestrated within a healthcare environment while addressing privacy, governance, and regulatory constraints.
 
 CIIOP adopts a dual-domain architecture composed of a Hospital Edge Layer and a Cloud AI Platform. The Edge Layer manages integration with clinical systems (PACS, RIS, HIS/EHR), data pseudonymization, workflow orchestration, and clinician interaction. The Cloud Layer provides scalable AI processing, model lifecycle management, data governance, and continuous learning capabilities.
 
-A key design principle of the platform is the combination of AI-assisted clinical workflows with human expertise. Rather than replacing clinical decision-making, AI models operate as decision-support components whose outputs are validated, corrected, and continuously improved through structured clinician feedback.
+A key design principle of the platform is the combination of **AI-assisted clinical workflows** with human expertise. Rather than replacing clinical decision-making, AI models operate as decision-support components whose outputs are validated, corrected, and continuously improved through structured clinician feedback.
 
 This repository focuses on architecture, solution design, AI governance, cloud-native patterns, healthcare interoperability standards, and the practical application of AI Agent and Agentic Architecture concepts in regulated environments.
 
